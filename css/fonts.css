@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "HelveticaLight";
+  src:url(../fonts/HelveticaLight.ttf) format("TrueType");
+}
+  @font-face {
+  font-family: "HelveticaNeueLight";
+  src:url(../fonts/HelveticaNeueLight.ttf) format("TrueType");
+}
+  @font-face {
+  font-family: "HelveticaNeueThin";
+  src:url(../fonts/HelveticaNeueThin.ttf) format("TrueType");
+}
+ 
